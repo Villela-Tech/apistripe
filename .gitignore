@@ -6,7 +6,6 @@ yarn-error.log*
 
 # Arquivos de build
 functions-build/
-public/
 
 # Arquivos de ambiente
 .env
